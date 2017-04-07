@@ -164,7 +164,7 @@ angular.module('copayApp.services').factory('txFormatService', function($filter,
     var alternativeIsoCode = config.alternativeIsoCode;
 
     // If fiat currency
-    if (currency != 'bits' && currency != 'BTC') {
+    if (currency != 'atoms' && currency != 'DCR') {
       amountUnitStr = $filter('formatFiatAmount')(amount) + ' ' + currency;
       amountSat = rateService.fromFiat(amount, currency).toFixed(0);
     } else {
@@ -172,12 +172,12 @@ angular.module('copayApp.services').factory('txFormatService', function($filter,
       amountUnitStr = root.formatAmountStr(amountSat);
       // convert unit to BTC
       amount = (amountSat * satToBtc).toFixed(8);
-      currency = 'BTC';
+      currency = 'DCR';
     }
 
     return {
-      amount: amount, 
-      currency: currency, 
+      amount: amount,
+      currency: currency,
       alternativeIsoCode: alternativeIsoCode,
       amountSat: amountSat,
       amountUnitStr: amountUnitStr
