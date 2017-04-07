@@ -4,11 +4,11 @@ angular.module('copayApp.controllers').controller('preferencesUnitController', f
 
   var config = configService.getSync();
   $scope.unitList = [{
-    name: 'atoms (100,000,000 atoms = 1DCR)',
-    shortName: 'atoms',
+    name: 'dbits (100,000,000 dbits = 1DCR)',
+    shortName: 'dbits',
     value: 1,
     decimals: 0,
-    code: 'atom',
+    code: 'dbit',
   }, {
     name: 'DCR',
     shortName: 'DCR',

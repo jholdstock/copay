@@ -8,7 +8,7 @@ angular.module('copayApp.services').factory('txFormatService', function($filter,
 
   root.formatAmount = function(satoshis, fullPrecision) {
     var config = configService.getSync().wallet.settings;
-    if (config.unitCode == 'sat') return satoshis;
+    if (config.unitCode == 'dbit') return satoshis;
 
     //TODO : now only works for english, specify opts to change thousand separator and decimal separator
     var opts = {
