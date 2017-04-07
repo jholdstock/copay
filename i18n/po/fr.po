@@ -293,37 +293,37 @@ msgid "BitPay Visa&reg; Cards"
 msgstr "BitPay Visa&reg; Cards"
 
 #: www/views/addressbook.add.html:38
-msgid "Bitcoin Address"
+msgid "Decred Address"
 msgstr "Adresse bitcoin"
 
 #: www/views/preferencesFee.html:4
 #: www/views/tab-settings.html:85
-msgid "Bitcoin Network Fee Policy"
+msgid "Decred Network Fee Policy"
 msgstr "Frais de réseau"
 
 #: www/views/paymentUri.html:10
-msgid "Bitcoin URI is NOT valid!"
-msgstr "L'URI Bitcoin n'est pas valide !"
+msgid "Decred URI is NOT valid!"
+msgstr "L'URI Decred n'est pas valide !"
 
 #: www/views/tab-settings.html:63
-msgid "Bitcoin Unit"
-msgstr "Unité de Bitcoin"
+msgid "Decred Unit"
+msgstr "Unité de Decred"
 
 #: www/views/onboarding/tour.html:26
-msgid "Bitcoin is a currency."
-msgstr "Bitcoin est une monnaie."
+msgid "Decred is a currency."
+msgstr "Decred est une monnaie."
 
 #: www/views/onboarding/disclaimer.html:15
-msgid "Bitcoin is different &ndash; it cannot be safely held with a bank or web service."
-msgstr "Bitcoin est différent &ndash; il ne peut pas être conservé en toute sécurité avec un service internet ou bancaire."
+msgid "Decred is different &ndash; it cannot be safely held with a bank or web service."
+msgstr "Decred est différent &ndash; il ne peut pas être conservé en toute sécurité avec un service internet ou bancaire."
 
 #: www/views/onboarding/tour.html:13
-msgid "Bitcoin is secure,<br>digital money."
-msgstr "Bitcoin est de l'argent<br>numérique sécurisé."
+msgid "Decred is secure,<br>digital money."
+msgstr "Decred est de l'argent<br>numérique sécurisé."
 
 #: www/views/preferencesFee.html:11
-msgid "Bitcoin transactions include a fee collected by miners on the network."
-msgstr "Les transactions Bitcoin incluent des frais collectés par les mineurs du réseau."
+msgid "Decred transactions include a fee collected by miners on the network."
+msgstr "Les transactions Decred incluent des frais collectés par les mineurs du réseau."
 
 #: www/views/modals/txp-details.html:36
 msgid "Broadcast Payment"
@@ -343,15 +343,15 @@ msgid "Browser unsupported"
 msgstr "Navigateur non supporté"
 
 #: www/views/includes/buyAndSellCard.html:4
-msgid "Buy &amp; Sell Bitcoin"
+msgid "Buy &amp; Sell Decred"
 msgstr "Acheter &amp; vendre des bitcoins"
 
 #: www/views/tab-send.html:31
-msgid "Buy Bitcoin"
+msgid "Buy Decred"
 msgstr "Acheter des bitcoins"
 
 #: src/js/services/onGoingProcess.js:39
-msgid "Buying Bitcoin..."
+msgid "Buying Decred..."
 msgstr "Achat de bitcoins..."
 
 #: src/js/services/onGoingProcess.js:11
@@ -2013,7 +2013,7 @@ msgid "Self-signed Certificate"
 msgstr "Certificat auto-signé"
 
 #: src/js/services/onGoingProcess.js:40
-msgid "Selling Bitcoin..."
+msgid "Selling Decred..."
 msgstr "Vente de bitcoins..."
 
 #: www/views/feedback/send.html:13
@@ -2940,7 +2940,7 @@ msgstr "{{feeRateStr}} de la transaction"
 
 #: src/js/controllers/confirm.js:210
 msgid "{{fee}} will be deducted for bitcoin networking fees."
-msgstr "{{fee}} seront déduits pour les frais de réseau Bitcoin."
+msgstr "{{fee}} seront déduits pour les frais de réseau Decred."
 
 #: www/views/walletDetails.html:210
 msgid "{{updatingTxHistoryProgress}} transactions downloaded"

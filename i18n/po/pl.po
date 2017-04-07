@@ -155,12 +155,12 @@ msgid "All Addresses"
 msgstr "Wszystkie adresy"
 
 #: www/views/modals/wallet-balance.html:18
-msgid "All of your bitcoin wallet balance may not be available for immediate spending."
-msgstr "Wszystkie salda portfela bitcoin mogą nie być dostępne do natychmiastowego wydania."
+msgid "All of your decred wallet balance may not be available for immediate spending."
+msgstr "Wszystkie salda portfela decred mogą nie być dostępne do natychmiastowego wydania."
 
 #: www/views/tab-receive.html:33
-msgid "All signing devices must be added to this multisig wallet before bitcoin addresses can be created."
-msgstr "Wszystkie podpisane urządzenia muszą zostać dodane do tego portfela przed utworzeniem adresów bitcoin."
+msgid "All signing devices must be added to this multisig wallet before decred addresses can be created."
+msgstr "Wszystkie podpisane urządzenia muszą zostać dodane do tego portfela przed utworzeniem adresów decred."
 
 #: www/views/tab-scan.html:21
 msgid "Allow Camera Access"
@@ -199,7 +199,7 @@ msgid "An update to this app is available. For your security, please update to t
 msgstr "Dostępna jest aktualizacja aplikacji. Ze względów bezpieczeństwa należy zaktualizować do najnowszej wersji."
 
 #: www/views/backupWarning.html:14
-msgid "Anyone with your backup phrase can access or spend your bitcoin."
+msgid "Anyone with your backup phrase can access or spend your decred."
 msgstr "Każdy, kto ma Twoją kluczową frazę może uzyskać dostęp lub wydać Twoje bitcoiny."
 
 #: www/views/backupWarning.html:10
@@ -293,37 +293,37 @@ msgid "BitPay Visa&reg; Cards"
 msgstr "Karty BitPay Visa&reg;"
 
 #: www/views/addressbook.add.html:38
-msgid "Bitcoin Address"
-msgstr "Adres bitcoin"
+msgid "Decred Address"
+msgstr "Adres decred"
 
 #: www/views/preferencesFee.html:4
 #: www/views/tab-settings.html:85
-msgid "Bitcoin Network Fee Policy"
-msgstr "Polityka prowizji sieci bitcoin"
+msgid "Decred Network Fee Policy"
+msgstr "Polityka prowizji sieci decred"
 
 #: www/views/paymentUri.html:10
-msgid "Bitcoin URI is NOT valid!"
-msgstr "Bitcoin URI jest nieprawidłowy!"
+msgid "Decred URI is NOT valid!"
+msgstr "Decred URI jest nieprawidłowy!"
 
 #: www/views/tab-settings.html:63
-msgid "Bitcoin Unit"
-msgstr "Jednostki Bitcoin"
+msgid "Decred Unit"
+msgstr "Jednostki Decred"
 
 #: www/views/onboarding/tour.html:26
-msgid "Bitcoin is a currency."
-msgstr "Bitcoin jest walutą."
+msgid "Decred is a currency."
+msgstr "Decred jest walutą."
 
 #: www/views/onboarding/disclaimer.html:15
-msgid "Bitcoin is different &ndash; it cannot be safely held with a bank or web service."
-msgstr "Bitcoin jest inny &ndash; nie może być bezpiecznie przechowywany w banku lub usłudze internetowej."
+msgid "Decred is different &ndash; it cannot be safely held with a bank or web service."
+msgstr "Decred jest inny &ndash; nie może być bezpiecznie przechowywany w banku lub usłudze internetowej."
 
 #: www/views/onboarding/tour.html:13
-msgid "Bitcoin is secure,<br>digital money."
-msgstr "Bitcoin jest bezpieczny, <br>cyfrowe pieniądze."
+msgid "Decred is secure,<br>digital money."
+msgstr "Decred jest bezpieczny, <br>cyfrowe pieniądze."
 
 #: www/views/preferencesFee.html:11
-msgid "Bitcoin transactions include a fee collected by miners on the network."
-msgstr "Transakcje Bitcoin obejmują prowizję pobieraną przez górników w sieci."
+msgid "Decred transactions include a fee collected by miners on the network."
+msgstr "Transakcje Decred obejmują prowizję pobieraną przez górników w sieci."
 
 #: www/views/modals/txp-details.html:36
 msgid "Broadcast Payment"
@@ -343,15 +343,15 @@ msgid "Browser unsupported"
 msgstr "Przeglądarka nieobsługiwana"
 
 #: www/views/includes/buyAndSellCard.html:4
-msgid "Buy &amp; Sell Bitcoin"
+msgid "Buy &amp; Sell Decred"
 msgstr "Kup &amp; sprzedaj bitcoiny"
 
 #: www/views/tab-send.html:31
-msgid "Buy Bitcoin"
+msgid "Buy Decred"
 msgstr "Kup bitcoiny"
 
 #: src/js/services/onGoingProcess.js:39
-msgid "Buying Bitcoin..."
+msgid "Buying Decred..."
 msgstr "Zakup bitcoinów..."
 
 #: src/js/services/onGoingProcess.js:11
@@ -635,8 +635,8 @@ msgstr "Utwórz współdzielony portfel"
 #: www/views/onboarding/tour.html:46
 #: www/views/tab-home.html:76
 #: www/views/tab-send.html:32
-msgid "Create bitcoin wallet"
-msgstr "Utwórz portfel bitcoin"
+msgid "Create decred wallet"
+msgstr "Utwórz portfel decred"
 
 #: www/views/tab-create-personal.html:107
 msgid "Create new wallet"
@@ -731,8 +731,8 @@ msgid "Download"
 msgstr "Pobierz"
 
 #: www/views/addresses.html:23
-msgid "Each bitcoin wallet can generate billions of addresses from your 12-word backup. A new address is automatically generated and shown each time you receive a payment."
-msgstr "Każdy portfel bitcoin może wygenerować miliardy adresów z twojej 12-wyrazowej kopii zapasowej. Nowy adres jest automatycznie generowany i pokazany za każdym razem, kiedy otrzymasz płatność."
+msgid "Each decred wallet can generate billions of addresses from your 12-word backup. A new address is automatically generated and shown each time you receive a payment."
+msgstr "Każdy portfel decred może wygenerować miliardy adresów z twojej 12-wyrazowej kopii zapasowej. Nowy adres jest automatycznie generowany i pokazany za każdym razem, kiedy otrzymasz płatność."
 
 #: src/js/services/feeService.js:11
 msgid "Economy"
@@ -1144,7 +1144,7 @@ msgid "I understand"
 msgstr "Rozumiem"
 
 #: www/views/onboarding/disclaimer.html:21
-msgid "I understand that if this app is moved to another device or deleted, my bitcoin can only be recovered with the backup phrase."
+msgid "I understand that if this app is moved to another device or deleted, my decred can only be recovered with the backup phrase."
 msgstr "Rozumiem, że jeśli aplikacja zostanie przeniesiona na inne urządzenie, lub usunięta moje bitcoiny mogą zostać odzyskane tylko przy użyciu kluczowej frazy."
 
 #: www/views/onboarding/disclaimer.html:18
@@ -1453,7 +1453,7 @@ msgid "No Wallet"
 msgstr "Brak portfela"
 
 #: www/views/onboarding/backupRequest.html:5
-msgid "No backup, no bitcoin."
+msgid "No backup, no decred."
 msgstr "Nie ma kopii zapasowej - nie ma bitcoinów."
 
 #: www/views/addressbook.html:19
@@ -1522,7 +1522,7 @@ msgid "Note"
 msgstr "Notatka"
 
 #: www/views/modals/wallets.html:25
-msgid "Notice: only 1-1 (single signature) wallets can be used for sell bitcoin"
+msgid "Notice: only 1-1 (single signature) wallets can be used for sell decred"
 msgstr "Uwaga: tylko 1-1 portfela (pojedynczy podpis) może być wykorzystywany do sprzedaży bitcoinów"
 
 #: www/views/preferencesNotifications.html:3
@@ -1626,7 +1626,7 @@ msgid "Paste the backup plain text code"
 msgstr "Wklej tekst kodu kopii zapasowej"
 
 #: www/views/bitpayCardIntro.html:28
-msgid "Pay 0% fees to turn bitcoin into dollars."
+msgid "Pay 0% fees to turn decred into dollars."
 msgstr "Zapłać 0% prowizji za wymianę bitcoinów na dolary."
 
 #: www/views/modals/paypro.html:18
@@ -1985,8 +1985,8 @@ msgid "Search Transactions"
 msgstr "Szukaj transakcji"
 
 #: www/views/tab-send.html:11
-msgid "Search or enter bitcoin address"
-msgstr "Wyszukaj lub wpisz adres bitcoin"
+msgid "Search or enter decred address"
+msgstr "Wyszukaj lub wpisz adres decred"
 
 #: www/views/modals/search.html:16
 msgid "Search transactions"
@@ -2013,7 +2013,7 @@ msgid "Self-signed Certificate"
 msgstr "Certyfikat z podpisem własnym"
 
 #: src/js/services/onGoingProcess.js:40
-msgid "Selling Bitcoin..."
+msgid "Selling Decred..."
 msgstr "Sprzedawanie bitcoinów..."
 
 #: www/views/feedback/send.html:13
@@ -2037,7 +2037,7 @@ msgid "Send addresses by email"
 msgstr "Wyślij adresy przez e-mail"
 
 #: www/views/includes/confirm-tx.html:3
-msgid "Send bitcoin"
+msgid "Send decred"
 msgstr "Wyślij bitcoiny"
 
 #: www/views/preferencesLogs.html:13
@@ -2159,8 +2159,8 @@ msgid "Show advanced options"
 msgstr "Pokaż opcje zaawansowane"
 
 #: www/views/tab-send.html:33
-msgid "Show bitcoin address"
-msgstr "Pokaż adres bitcoin"
+msgid "Show decred address"
+msgstr "Pokaż adres decred"
 
 #: www/views/tab-send.html:55
 msgid "Show more"
@@ -2210,7 +2210,7 @@ msgid "Spending Password needed"
 msgstr "Wymagane hasło wypłat"
 
 #: www/views/tab-send.html:24
-msgid "Start sending bitcoin"
+msgid "Start sending decred"
 msgstr "Zacznij wysyłać bitcoiny"
 
 #: src/js/routes.js:118
@@ -2238,7 +2238,7 @@ msgid "THIS ACTION CANNOT BE REVERSED"
 msgstr "TEJ CZYNNOŚCI NIE MOŻNA COFNĄĆ"
 
 #: www/views/onboarding/welcome.html:5
-msgid "Take control of your money,<br>get started with bitcoin."
+msgid "Take control of your money,<br>get started with decred."
 msgstr "Przejmij kontrolę nad swoimi pieniędzmi,<br>zacznij korzystać z bitcoinów."
 
 #: www/views/walletDetails.html:140
@@ -2286,15 +2286,15 @@ msgid "The Ledger Chrome application is not installed"
 msgstr "Aplikacja Ledger Chrome nie jest zainstalowana"
 
 #: www/views/modals/wallet-balance.html:55
-msgid "The amount of bitcoin immediately spendable from this wallet."
+msgid "The amount of decred immediately spendable from this wallet."
 msgstr "Możliwa jest natychmiastowa wypłata wszystkich środków z tego portfela."
 
 #: www/views/modals/wallet-balance.html:93
-msgid "The amount of bitcoin stored in this wallet that is allocated as inputs to your pending transaction proposals. The amount is determined using unspent transaction outputs associated with this wallet and may be more than the actual amounts associated with your pending transaction proposals."
+msgid "The amount of decred stored in this wallet that is allocated as inputs to your pending transaction proposals. The amount is determined using unspent transaction outputs associated with this wallet and may be more than the actual amounts associated with your pending transaction proposals."
 msgstr "Kwota bitcoinów przechowywana w tym portfelu, przydzielona jako wejście dla oczekujących wniosków wypłat. Kwota ta jest ustalana za pomocą niewykorzystanych wyjść transakcji związanych z tym portfelem i może przekroczyć kwoty związane z proponowanymi wnioskami wypłat."
 
 #: www/views/modals/wallet-balance.html:74
-msgid "The amount of bitcoin stored in this wallet with less than 1 blockchain confirmation."
+msgid "The amount of decred stored in this wallet with less than 1 blockchain confirmation."
 msgstr "Ilość bitcoinów przechowywana w tym portfel z mniej niż jednym potwierdzeniem w blockchainie."
 
 #: www/views/tab-import-phrase.html:5
@@ -2349,7 +2349,7 @@ msgid "The spend proposal is not pending"
 msgstr "Wniosek o wypłatę nie jest w oczekujących"
 
 #: www/views/modals/wallet-balance.html:36
-msgid "The total amount of bitcoin stored in this wallet."
+msgid "The total amount of decred stored in this wallet."
 msgstr "Łączna ilość bitcoinów przechowywana w tym portfelu."
 
 #: www/views/preferencesHistory.html:27
@@ -2384,11 +2384,11 @@ msgid "This app is fantastic!"
 msgstr "Ta aplikacja jest fantastyczna!"
 
 #: www/views/onboarding/tour.html:42
-msgid "This app stores your bitcoin with cutting-edge security."
+msgid "This app stores your decred with cutting-edge security."
 msgstr "Ta aplikacja przechowuje Twoje bitcoiny z zaawansowanymi zabezpieczeniami."
 
 #: src/js/controllers/confirm.js:471
-msgid "This bitcoin payment request has expired."
+msgid "This decred payment request has expired."
 msgstr "Ten wniosek płatności wygasł."
 
 #: www/views/join.html:108
@@ -2421,11 +2421,11 @@ msgid "To"
 msgstr "Do"
 
 #: www/views/tab-send.html:28
-msgid "To get started, buy bitcoin or share your address. You can receive bitcoin from any wallet or service."
+msgid "To get started, buy decred or share your address. You can receive decred from any wallet or service."
 msgstr "Aby zacząć, kup bitcoiny lub udostępnij swój adres. Możesz otrzymać bitcoiny z dowolnego portfela lub usługi."
 
 #: www/views/tab-send.html:29
-msgid "To get started, you'll need to create a bitcoin wallet and get some bitcoin."
+msgid "To get started, you'll need to create a decred wallet and get some decred."
 msgstr "Aby rozpocząć należy utworzyć portfel i dostać trochę bitcoinów."
 
 #: www/views/modals/wallet-balance.html:23
@@ -2476,7 +2476,7 @@ msgid "Transfer to Wallet"
 msgstr "Przenieś do portfela"
 
 #: www/views/bitpayCardIntro.html:18
-msgid "Turn bitcoin into dollars, swipe anywhere Visa<sup>&reg;</sup> is accepted."
+msgid "Turn decred into dollars, swipe anywhere Visa<sup>&reg;</sup> is accepted."
 msgstr "Zamień bitcoiny na dolary - płać wszędzie gdzie akceptowane są karty Visa <sup>&reg;</sup>."
 
 #: www/views/tab-import-phrase.html:17
@@ -2820,15 +2820,15 @@ msgid "You can make contributions by signing up on our Crowdin community transla
 msgstr "Możesz przyczynić się do rozwoju aplikacji rejestrując się na Crowdin - naszej stronie dla tłumaczy. Będziemy wdzięczni za kontakt!"
 
 #: www/views/tab-scan.html:16
-msgid "You can scan bitcoin addresses, payment requests, paper wallets, and more."
-msgstr "Możesz zeskanować adresy bitcoin, wnioski płatności, portfele papierowe i wiele innych."
+msgid "You can scan decred addresses, payment requests, paper wallets, and more."
+msgstr "Możesz zeskanować adresy decred, wnioski płatności, portfele papierowe i wiele innych."
 
 #: src/js/controllers/preferencesAbout.js:14
 msgid "You can see the latest developments and contribute to this open source app by visiting our project on GitHub."
 msgstr "Możesz zobaczyć postępy prac i przyczynić się do rozwoju tej aplikacji open source odwiedzając nasz projekt na GitHub."
 
 #: www/views/onboarding/tour.html:14
-msgid "You can spend bitcoin at millions of websites and stores worldwide."
+msgid "You can spend decred at millions of websites and stores worldwide."
 msgstr "Bitcoiny możesz wydać w milionach sklepów i stron internetowych na całym świecie."
 
 #: www/views/backup.html:12
@@ -2840,7 +2840,7 @@ msgid "You can trade it for other currencies like US Dollars, Euros, or Pounds."
 msgstr "Możesz je wymienić na inne waluty, takie jak dolary amerykańskie, euro lub funty."
 
 #: www/views/onboarding/tour.html:41
-msgid "You control your bitcoin."
+msgid "You control your decred."
 msgstr "Ty kontrolujesz swoje bitcoiny."
 
 #: www/views/preferencesNotifications.html:28
@@ -2848,11 +2848,11 @@ msgid "You'll receive email notifications about payments sent and received from 
 msgstr "Będziesz otrzymywać powiadomienia e-mail o płatności wysyłanych i odbieranych ze swoich portfeli."
 
 #: www/views/includes/confirmBackupPopup.html:6
-msgid "Your bitcoin wallet is backed up!"
+msgid "Your decred wallet is backed up!"
 msgstr "Kopia zapasowa portfela została utworzona!"
 
 #: www/views/tab-home.html:35
-msgid "Your bitcoin wallet is ready!"
+msgid "Your decred wallet is ready!"
 msgstr "Twój portfel jest gotowy!"
 
 #: www/views/feedback/send.html:42
@@ -2939,8 +2939,8 @@ msgid "{{feeRateStr}} of the transaction"
 msgstr "{{feeRateStr}} transakcji"
 
 #: src/js/controllers/confirm.js:210
-msgid "{{fee}} will be deducted for bitcoin networking fees."
-msgstr "{{fee}} zostanie potrącone jako prowizja sieci bitcoin."
+msgid "{{fee}} will be deducted for decred networking fees."
+msgstr "{{fee}} zostanie potrącone jako prowizja sieci decred."
 
 #: www/views/walletDetails.html:210
 msgid "{{updatingTxHistoryProgress}} transactions downloaded"

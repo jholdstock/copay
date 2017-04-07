@@ -201,19 +201,19 @@ msgid "Before receiving funds, it is highly recommended you backup your wallet k
 msgstr "비트코인을 받기 전에 지갑의 키를 백업하길 강력히 권장합니다."
 
 #: www/views/walletHome.html
-msgid "Bitcoin address"
+msgid "Decred address"
 msgstr "비트코인 주소"
 
 #: www/views/preferences.html
-msgid "Bitcoin Network Fee Policy"
+msgid "Decred Network Fee Policy"
 msgstr "비트코인 네트워크 수수료 설정"
 
 #: www/views/preferencesFee.html
-msgid "Bitcoin transactions may include a fee collected by miners on the network. The higher the fee, the greater the incentive a miner has to include that transaction in a block. Actual fees are determined based on network load and the selected policy."
-msgstr "Bitcoin transactions may include a fee collected by miners on the network. The higher the fee, the greater the incentive a miner has to include that transaction in a block. Actual fees are determined based on network load and the selected policy."
+msgid "Decred transactions may include a fee collected by miners on the network. The higher the fee, the greater the incentive a miner has to include that transaction in a block. Actual fees are determined based on network load and the selected policy."
+msgstr "Decred transactions may include a fee collected by miners on the network. The higher the fee, the greater the incentive a miner has to include that transaction in a block. Actual fees are determined based on network load and the selected policy."
 
 #: www/views/paymentUri.html
-msgid "Bitcoin URI is NOT valid!"
+msgid "Decred URI is NOT valid!"
 msgstr "비트코인 URI가 유효하지 않습니다!"
 
 #: www/views/modals/txp-details.html
@@ -402,7 +402,7 @@ msgid "Could not join wallet"
 msgstr "Could not join wallet"
 
 #: src/js/controllers/walletHome.js
-msgid "Could not recognize a valid Bitcoin QR Code"
+msgid "Could not recognize a valid Decred QR Code"
 msgstr "유효한 비트코인 QR코드를 인식할 수 없었습니다"
 
 #: src/js/controllers/walletHome.js
@@ -876,7 +876,7 @@ msgid "Multisignature wallet"
 msgstr "다중서명 지갑"
 
 #: www/views/walletHome.html
-msgid "My Bitcoin address"
+msgid "My Decred address"
 msgstr "나의 비트코인 주소"
 
 #: www/views/paymentUri.html
@@ -1399,8 +1399,8 @@ msgid "Testnet"
 msgstr "Testnet"
 
 #: www/views/disclaimer.html
-msgid "The authors of the software, employees and affiliates of Bitpay, copyright holders, and BitPay, Inc. cannot retrieve your private keys or passwords if you lose or forget them and cannot guarantee transaction confirmation as they do not have control over the Bitcoin network."
-msgstr "The authors of the software, employees and affiliates of Bitpay, copyright holders, and BitPay, Inc. cannot retrieve your private keys or passwords if you lose or forget them and cannot guarantee transaction confirmation as they do not have control over the Bitcoin network."
+msgid "The authors of the software, employees and affiliates of Bitpay, copyright holders, and BitPay, Inc. cannot retrieve your private keys or passwords if you lose or forget them and cannot guarantee transaction confirmation as they do not have control over the Decred network."
+msgstr "The authors of the software, employees and affiliates of Bitpay, copyright holders, and BitPay, Inc. cannot retrieve your private keys or passwords if you lose or forget them and cannot guarantee transaction confirmation as they do not have control over the Decred network."
 
 #: src/js/services/ledger.js
 msgid "The Ledger Chrome application is not installed"

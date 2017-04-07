@@ -155,11 +155,11 @@ msgid "All Addresses"
 msgstr "Все адреса"
 
 #: www/views/modals/wallet-balance.html:18
-msgid "All of your bitcoin wallet balance may not be available for immediate spending."
+msgid "All of your decred wallet balance may not be available for immediate spending."
 msgstr "В данный момент весь баланс вашего кошелька может быть недоступен для совершения платежей."
 
 #: www/views/tab-receive.html:33
-msgid "All signing devices must be added to this multisig wallet before bitcoin addresses can be created."
+msgid "All signing devices must be added to this multisig wallet before decred addresses can be created."
 msgstr "Все совладельцы должны быть добавлены в этот общий кошелек, прежде чем можно будет получать переводы."
 
 #: www/views/tab-scan.html:21
@@ -199,7 +199,7 @@ msgid "An update to this app is available. For your security, please update to t
 msgstr "Доступно обновление. Для вашей же безопасности, пожалуйста, обновитесь до последней версии."
 
 #: www/views/backupWarning.html:14
-msgid "Anyone with your backup phrase can access or spend your bitcoin."
+msgid "Anyone with your backup phrase can access or spend your decred."
 msgstr "Любой, у кого есть доступ к вашему ключевому словосочетанию, может потратить ваши биткойны."
 
 #: www/views/backupWarning.html:10
@@ -293,37 +293,37 @@ msgid "BitPay Visa&reg; Cards"
 msgstr ""
 
 #: www/views/addressbook.add.html:38
-msgid "Bitcoin Address"
+msgid "Decred Address"
 msgstr "Биткойн-адрес"
 
 #: www/views/preferencesFee.html:4
 #: www/views/tab-settings.html:85
-msgid "Bitcoin Network Fee Policy"
+msgid "Decred Network Fee Policy"
 msgstr "Политика комиссии сети Биткойн"
 
 #: www/views/paymentUri.html:10
-msgid "Bitcoin URI is NOT valid!"
+msgid "Decred URI is NOT valid!"
 msgstr "Биткойн URI недействителен!"
 
 #: www/views/tab-settings.html:63
-msgid "Bitcoin Unit"
+msgid "Decred Unit"
 msgstr "Единица измерения"
 
 #: www/views/onboarding/tour.html:26
-msgid "Bitcoin is a currency."
+msgid "Decred is a currency."
 msgstr "Биткойн - это валюта."
 
 #: www/views/onboarding/disclaimer.html:15
-msgid "Bitcoin is different &ndash; it cannot be safely held with a bank or web service."
-msgstr "Bitcoin is different &ndash; it cannot be safely held with a bank or web service."
+msgid "Decred is different &ndash; it cannot be safely held with a bank or web service."
+msgstr "Decred is different &ndash; it cannot be safely held with a bank or web service."
 
 #: www/views/onboarding/tour.html:13
-msgid "Bitcoin is secure,<br>digital money."
+msgid "Decred is secure,<br>digital money."
 msgstr "Биткойн это безопасные,<br>цифровые деньги."
 
 #: www/views/preferencesFee.html:11
-msgid "Bitcoin transactions include a fee collected by miners on the network."
-msgstr "Bitcoin transactions include a fee collected by miners on the network."
+msgid "Decred transactions include a fee collected by miners on the network."
+msgstr "Decred transactions include a fee collected by miners on the network."
 
 #: www/views/modals/txp-details.html:36
 msgid "Broadcast Payment"
@@ -343,15 +343,15 @@ msgid "Browser unsupported"
 msgstr "Браузер не поддерживается"
 
 #: www/views/includes/buyAndSellCard.html:4
-msgid "Buy &amp; Sell Bitcoin"
+msgid "Buy &amp; Sell Decred"
 msgstr "Купить &amp; продать биткойн"
 
 #: www/views/tab-send.html:31
-msgid "Buy Bitcoin"
+msgid "Buy Decred"
 msgstr "Купить биткойн"
 
 #: src/js/services/onGoingProcess.js:39
-msgid "Buying Bitcoin..."
+msgid "Buying Decred..."
 msgstr "Покупка биткойн..."
 
 #: src/js/services/onGoingProcess.js:11
@@ -635,7 +635,7 @@ msgstr "Создать общий кошелёк"
 #: www/views/onboarding/tour.html:46
 #: www/views/tab-home.html:76
 #: www/views/tab-send.html:32
-msgid "Create bitcoin wallet"
+msgid "Create decred wallet"
 msgstr "Создать биткойн-кошелёк"
 
 #: www/views/tab-create-personal.html:107
@@ -731,7 +731,7 @@ msgid "Download"
 msgstr "Скачать"
 
 #: www/views/addresses.html:23
-msgid "Each bitcoin wallet can generate billions of addresses from your 12-word backup. A new address is automatically generated and shown each time you receive a payment."
+msgid "Each decred wallet can generate billions of addresses from your 12-word backup. A new address is automatically generated and shown each time you receive a payment."
 msgstr "Любой биткойн-кошелёк может создать миллиарды адресов из вашей ключевой фразы. Новый адрес автоматически генерируется каждый раз, когда вы получаете платеж."
 
 #: src/js/services/feeService.js:11
@@ -1144,7 +1144,7 @@ msgid "I understand"
 msgstr "Я понимаю"
 
 #: www/views/onboarding/disclaimer.html:21
-msgid "I understand that if this app is moved to another device or deleted, my bitcoin can only be recovered with the backup phrase."
+msgid "I understand that if this app is moved to another device or deleted, my decred can only be recovered with the backup phrase."
 msgstr "Я осознаю, что если {{appName}} будет перемещён на другое устройство, или удален, мои биткойны будут восстановимы только с помощью ключевого словосочетания."
 
 #: www/views/onboarding/disclaimer.html:18
@@ -1453,7 +1453,7 @@ msgid "No Wallet"
 msgstr "Нет кошельков"
 
 #: www/views/onboarding/backupRequest.html:5
-msgid "No backup, no bitcoin."
+msgid "No backup, no decred."
 msgstr "Нет резервной копии - нет биткойнов."
 
 #: www/views/addressbook.html:19
@@ -1522,7 +1522,7 @@ msgid "Note"
 msgstr "Примечание"
 
 #: www/views/modals/wallets.html:25
-msgid "Notice: only 1-1 (single signature) wallets can be used for sell bitcoin"
+msgid "Notice: only 1-1 (single signature) wallets can be used for sell decred"
 msgstr "Внимание: только 1-1 кошельки (требующие одной подписи) могут быть использованы для продажи биткойн"
 
 #: www/views/preferencesNotifications.html:3
@@ -1626,7 +1626,7 @@ msgid "Paste the backup plain text code"
 msgstr "Вставьте код резервной копии обычным текстом"
 
 #: www/views/bitpayCardIntro.html:28
-msgid "Pay 0% fees to turn bitcoin into dollars."
+msgid "Pay 0% fees to turn decred into dollars."
 msgstr "Платите нулевую комиссию за конвертацию биткойн в доллары США."
 
 #: www/views/modals/paypro.html:18
@@ -1985,7 +1985,7 @@ msgid "Search Transactions"
 msgstr "Поиск транзакций"
 
 #: www/views/tab-send.html:11
-msgid "Search or enter bitcoin address"
+msgid "Search or enter decred address"
 msgstr "Найти или ввести биткойн-адрес"
 
 #: www/views/modals/search.html:16
@@ -2013,7 +2013,7 @@ msgid "Self-signed Certificate"
 msgstr "Самозаверенные сертификат"
 
 #: src/js/services/onGoingProcess.js:40
-msgid "Selling Bitcoin..."
+msgid "Selling Decred..."
 msgstr "Продажа биткойн..."
 
 #: www/views/feedback/send.html:13
@@ -2037,7 +2037,7 @@ msgid "Send addresses by email"
 msgstr "Отправить адреса по email"
 
 #: www/views/includes/confirm-tx.html:3
-msgid "Send bitcoin"
+msgid "Send decred"
 msgstr "Отправить"
 
 #: www/views/preferencesLogs.html:13
@@ -2159,7 +2159,7 @@ msgid "Show advanced options"
 msgstr "Показать дополнительные параметры"
 
 #: www/views/tab-send.html:33
-msgid "Show bitcoin address"
+msgid "Show decred address"
 msgstr "Показать биткойн-адрес"
 
 #: www/views/tab-send.html:55
@@ -2210,7 +2210,7 @@ msgid "Spending Password needed"
 msgstr "Необходим платёжный пароль"
 
 #: www/views/tab-send.html:24
-msgid "Start sending bitcoin"
+msgid "Start sending decred"
 msgstr ""
 
 #: src/js/routes.js:118
@@ -2238,7 +2238,7 @@ msgid "THIS ACTION CANNOT BE REVERSED"
 msgstr ""
 
 #: www/views/onboarding/welcome.html:5
-msgid "Take control of your money,<br>get started with bitcoin."
+msgid "Take control of your money,<br>get started with decred."
 msgstr "Возьмите ваши финансы под контроль,<br>начните пользоваться Биткойн."
 
 #: www/views/walletDetails.html:140
@@ -2286,15 +2286,15 @@ msgid "The Ledger Chrome application is not installed"
 msgstr "Приложение Ledger для Chrome не установлено"
 
 #: www/views/modals/wallet-balance.html:55
-msgid "The amount of bitcoin immediately spendable from this wallet."
+msgid "The amount of decred immediately spendable from this wallet."
 msgstr "Сумма биткойнов доступных для совершения платежей."
 
 #: www/views/modals/wallet-balance.html:93
-msgid "The amount of bitcoin stored in this wallet that is allocated as inputs to your pending transaction proposals. The amount is determined using unspent transaction outputs associated with this wallet and may be more than the actual amounts associated with your pending transaction proposals."
+msgid "The amount of decred stored in this wallet that is allocated as inputs to your pending transaction proposals. The amount is determined using unspent transaction outputs associated with this wallet and may be more than the actual amounts associated with your pending transaction proposals."
 msgstr "Сумма биткойнов, выделенных в качестве входов для ожидающих рассмотрения платежей. Сумма определяется непотраченными выходами, ассоциированными с этим кошельком, и может превышать сумму, ассоциированную с предложенными платежами."
 
 #: www/views/modals/wallet-balance.html:74
-msgid "The amount of bitcoin stored in this wallet with less than 1 blockchain confirmation."
+msgid "The amount of decred stored in this wallet with less than 1 blockchain confirmation."
 msgstr "Сумма биткойнов с менее, чем одним подтверждением."
 
 #: www/views/tab-import-phrase.html:5
@@ -2349,7 +2349,7 @@ msgid "The spend proposal is not pending"
 msgstr "Предложенный платёж больше не на рассмотрении"
 
 #: www/views/modals/wallet-balance.html:36
-msgid "The total amount of bitcoin stored in this wallet."
+msgid "The total amount of decred stored in this wallet."
 msgstr "Сумма биткойнов в этом кошельке."
 
 #: www/views/preferencesHistory.html:27
@@ -2384,11 +2384,11 @@ msgid "This app is fantastic!"
 msgstr "Замечательное приложение!"
 
 #: www/views/onboarding/tour.html:42
-msgid "This app stores your bitcoin with cutting-edge security."
+msgid "This app stores your decred with cutting-edge security."
 msgstr ""
 
 #: src/js/controllers/confirm.js:471
-msgid "This bitcoin payment request has expired."
+msgid "This decred payment request has expired."
 msgstr "Этот запрос платежа истёк."
 
 #: www/views/join.html:108
@@ -2421,11 +2421,11 @@ msgid "To"
 msgstr "Кому"
 
 #: www/views/tab-send.html:28
-msgid "To get started, buy bitcoin or share your address. You can receive bitcoin from any wallet or service."
+msgid "To get started, buy decred or share your address. You can receive decred from any wallet or service."
 msgstr "Чтобы начать работу, купите биткойн или поделитесь вашим адресом. Вы можете получать биткойны из любого кошелька или сервиса."
 
 #: www/views/tab-send.html:29
-msgid "To get started, you'll need to create a bitcoin wallet and get some bitcoin."
+msgid "To get started, you'll need to create a decred wallet and get some decred."
 msgstr "Чтобы начать работу, вам нужно создать кошелёк и получить биткойн."
 
 #: www/views/modals/wallet-balance.html:23
@@ -2476,7 +2476,7 @@ msgid "Transfer to Wallet"
 msgstr "Перевод в кошелёк"
 
 #: www/views/bitpayCardIntro.html:18
-msgid "Turn bitcoin into dollars, swipe anywhere Visa<sup>&reg;</sup> is accepted."
+msgid "Turn decred into dollars, swipe anywhere Visa<sup>&reg;</sup> is accepted."
 msgstr "Превращайте биткойны в доллары США - платите везде, где принимают карты Visa<sup>&reg;</sup>."
 
 #: www/views/tab-import-phrase.html:17
@@ -2820,7 +2820,7 @@ msgid "You can make contributions by signing up on our Crowdin community transla
 msgstr ""
 
 #: www/views/tab-scan.html:16
-msgid "You can scan bitcoin addresses, payment requests, paper wallets, and more."
+msgid "You can scan decred addresses, payment requests, paper wallets, and more."
 msgstr "Вы можете сканировать биткойн-адреса, запросы платежей, бумажные кошельки, и многое другое."
 
 #: src/js/controllers/preferencesAbout.js:14
@@ -2828,7 +2828,7 @@ msgid "You can see the latest developments and contribute to this open source ap
 msgstr ""
 
 #: www/views/onboarding/tour.html:14
-msgid "You can spend bitcoin at millions of websites and stores worldwide."
+msgid "You can spend decred at millions of websites and stores worldwide."
 msgstr ""
 
 #: www/views/backup.html:12
@@ -2840,7 +2840,7 @@ msgid "You can trade it for other currencies like US Dollars, Euros, or Pounds."
 msgstr ""
 
 #: www/views/onboarding/tour.html:41
-msgid "You control your bitcoin."
+msgid "You control your decred."
 msgstr ""
 
 #: www/views/preferencesNotifications.html:28
@@ -2848,11 +2848,11 @@ msgid "You'll receive email notifications about payments sent and received from 
 msgstr "Вы будете получать email-уведомления о входящих и исходящих платежах."
 
 #: www/views/includes/confirmBackupPopup.html:6
-msgid "Your bitcoin wallet is backed up!"
+msgid "Your decred wallet is backed up!"
 msgstr "Резервная копия кошелька создана!"
 
 #: www/views/tab-home.html:35
-msgid "Your bitcoin wallet is ready!"
+msgid "Your decred wallet is ready!"
 msgstr "Ваш кошелёк готов!"
 
 #: www/views/feedback/send.html:42
@@ -2939,7 +2939,7 @@ msgid "{{feeRateStr}} of the transaction"
 msgstr "{{feeRateStr}} транзакции"
 
 #: src/js/controllers/confirm.js:210
-msgid "{{fee}} will be deducted for bitcoin networking fees."
+msgid "{{fee}} will be deducted for decred networking fees."
 msgstr "{{fee}} будет использовано для оплаты комиссии."
 
 #: www/views/walletDetails.html:210

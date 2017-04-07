@@ -244,20 +244,20 @@ msgid "BIP32 path for address derivation"
 msgstr "διαδρομή BIP32 για παραγωγή διεύθυνσης"
 
 #: www/views/walletHome.html
-msgid "Bitcoin address"
-msgstr "Διεύθυνση Bitcoin"
+msgid "Decred address"
+msgstr "Διεύθυνση Decred"
 
 #: www/views/preferencesGlobal.html
-msgid "Bitcoin Network Fee Policy"
-msgstr "Πολιτική Χρέωσης Δικτύου Bitcoin"
+msgid "Decred Network Fee Policy"
+msgstr "Πολιτική Χρέωσης Δικτύου Decred"
 
 #: www/views/preferencesFee.html
-msgid "Bitcoin transactions may include a fee collected by miners on the network. The higher the fee, the greater the incentive a miner has to include that transaction in a block. Current fees are determined based on network load and the selected policy."
-msgstr "Οι συναλλαγές Bitcoin μπορεί να περιλαμβάνουν μια αμοιβή που εισπράττουν οι miners του δικτύου. Όσο υψηλότερο είναι αυτό το τέλος, τόσο μεγαλύτερο είναι και το κίνητρο ενός miner να συμπεριλάβει αυτή τη συναλλαγή σε ένα block. Οι παρουσιαζόμενη αμοιβή καθορίζεται με βάση το φορτίο του δικτύου και την επιλεγμένη πολιτική."
+msgid "Decred transactions may include a fee collected by miners on the network. The higher the fee, the greater the incentive a miner has to include that transaction in a block. Current fees are determined based on network load and the selected policy."
+msgstr "Οι συναλλαγές Decred μπορεί να περιλαμβάνουν μια αμοιβή που εισπράττουν οι miners του δικτύου. Όσο υψηλότερο είναι αυτό το τέλος, τόσο μεγαλύτερο είναι και το κίνητρο ενός miner να συμπεριλάβει αυτή τη συναλλαγή σε ένα block. Οι παρουσιαζόμενη αμοιβή καθορίζεται με βάση το φορτίο του δικτύου και την επιλεγμένη πολιτική."
 
 #: www/views/paymentUri.html
-msgid "Bitcoin URI is NOT valid!"
-msgstr "Το σύστημα Bitcoin URI δεν είναι έγκυρο!"
+msgid "Decred URI is NOT valid!"
+msgstr "Το σύστημα Decred URI δεν είναι έγκυρο!"
 
 #: www/views/modals/txp-details.html
 msgid "Broadcast Payment"
@@ -487,7 +487,7 @@ msgid "Could not join wallet"
 msgstr "Δεν μπορείτε να συμμετάσχετε στο πορτοφόλι"
 
 #: src/js/controllers/walletHome.js
-msgid "Could not recognize a valid Bitcoin QR Code"
+msgid "Could not recognize a valid Decred QR Code"
 msgstr "Δεν ήταν δυνατή η αναγνώριση ενός έγκυρου κωδικού QR για Βitcoin"
 
 #: src/js/controllers/modals/txpDetails.js
@@ -1012,8 +1012,8 @@ msgid "Multiple recipients"
 msgstr "Πολλαπλοί παραλήπτες"
 
 #: www/views/walletHome.html
-msgid "My Bitcoin address"
-msgstr "Η  διεύθυνση Bitcoin μου"
+msgid "My Decred address"
+msgstr "Η  διεύθυνση Decred μου"
 
 #: www/views/modals/addressbook.html
 msgid "My contacts"
@@ -1633,8 +1633,8 @@ msgid "Terms of Use"
 msgstr "Όροι Χρήσης"
 
 #: www/views/includes/terms.html
-msgid "The authors of the software, employees and affiliates of Bitpay, copyright holders, and BitPay, Inc. cannot retrieve your private keys or passwords if you lose or forget them and cannot guarantee transaction confirmation as they do not have control over the Bitcoin network."
-msgstr "Οι συγγραφείς του λογισμικού, οι εργαζόμενοι και οι συνεργάτες του Bitpay, οι κατόχοι πνευματικών δικαιωμάτων, και η BitPay α.ε., δεν μπορούν να ανακτήσουν ιδιωτικά κλειδιά ή τους κωδικούς πρόσβασης σας, εάν χάσετε ή ξεχασετε αυτούς και δεν μπορούν να εγγυηθούν την επιβεβαίωση της συναλλαγής, δεδομένου ότι δεν έχουν τον έλεγχο του δικτύου Bitcoin."
+msgid "The authors of the software, employees and affiliates of Bitpay, copyright holders, and BitPay, Inc. cannot retrieve your private keys or passwords if you lose or forget them and cannot guarantee transaction confirmation as they do not have control over the Decred network."
+msgstr "Οι συγγραφείς του λογισμικού, οι εργαζόμενοι και οι συνεργάτες του Bitpay, οι κατόχοι πνευματικών δικαιωμάτων, και η BitPay α.ε., δεν μπορούν να ανακτήσουν ιδιωτικά κλειδιά ή τους κωδικούς πρόσβασης σας, εάν χάσετε ή ξεχασετε αυτούς και δεν μπορούν να εγγυηθούν την επιβεβαίωση της συναλλαγής, δεδομένου ότι δεν έχουν τον έλεγχο του δικτύου Decred."
 
 #: www/views/import.html
 msgid "The derivation path"

@@ -28,7 +28,7 @@ msgid "[Balance Hidden]"
 msgstr "[skrytý zůstatek]"
 
 #: src/js/controllers/walletHome.js
-msgid "{{fee}} will be deducted for bitcoin networking fees"
+msgid "{{fee}} will be deducted for decred networking fees"
 msgstr "{{fee}} bude odečteno jako poplatek bitcoinové síti"
 
 #: www/views/includes/confirm-tx.html
@@ -73,8 +73,8 @@ msgid "<b>OR</b> the wallet recovery phrases of <b>all</b> copayers in the walle
 msgstr ""
 
 #: www/views/disclaimer.html
-msgid "A multisignature bitcoin wallet"
-msgstr "A vícepodpisová bitcoin peněženka"
+msgid "A multisignature decred wallet"
+msgstr "A vícepodpisová decred peněženka"
 
 #: www/views/preferencesGlobal.html
 msgid "About Copay"
@@ -244,20 +244,20 @@ msgid "BIP32 path for address derivation"
 msgstr "BIP32 cesta pro derivaci adres"
 
 #: www/views/walletHome.html
-msgid "Bitcoin address"
-msgstr "Bitcoin adresa"
+msgid "Decred address"
+msgstr "Decred adresa"
 
 #: www/views/preferencesGlobal.html
-msgid "Bitcoin Network Fee Policy"
+msgid "Decred Network Fee Policy"
 msgstr "Zásady poplatků bitcoinové sítě"
 
 #: www/views/preferencesFee.html
-msgid "Bitcoin transactions may include a fee collected by miners on the network. The higher the fee, the greater the incentive a miner has to include that transaction in a block. Current fees are determined based on network load and the selected policy."
+msgid "Decred transactions may include a fee collected by miners on the network. The higher the fee, the greater the incentive a miner has to include that transaction in a block. Current fees are determined based on network load and the selected policy."
 msgstr ""
 
 #: www/views/paymentUri.html
-msgid "Bitcoin URI is NOT valid!"
-msgstr "Bitcoin URI neni platná!"
+msgid "Decred URI is NOT valid!"
+msgstr "Decred URI neni platná!"
 
 #: www/views/modals/txp-details.html
 msgid "Broadcast Payment"
@@ -487,8 +487,8 @@ msgid "Could not join wallet"
 msgstr "Chyba spojování peněženek"
 
 #: src/js/controllers/walletHome.js
-msgid "Could not recognize a valid Bitcoin QR Code"
-msgstr "Bitcoin QR kód nebyl rozpoznán"
+msgid "Could not recognize a valid Decred QR Code"
+msgstr "Decred QR kód nebyl rozpoznán"
 
 #: src/js/controllers/modals/txpDetails.js
 msgid "Could not reject payment"
@@ -1012,8 +1012,8 @@ msgid "Multiple recipients"
 msgstr "Více příjemců"
 
 #: www/views/walletHome.html
-msgid "My Bitcoin address"
-msgstr "Moje bitcoin adresa"
+msgid "My Decred address"
+msgstr "Moje decred adresa"
 
 #: www/views/modals/addressbook.html
 msgid "My contacts"
@@ -1467,8 +1467,8 @@ msgid "Send addresses by email"
 msgstr "Odeslat adresy emailem"
 
 #: www/views/includes/confirm-tx.html
-msgid "Send bitcoin"
-msgstr "Odeslat BTC"
+msgid "Send decred"
+msgstr "Odeslat DCR"
 
 #: www/views/export.html
 #: www/views/preferencesLogs.html
@@ -1633,8 +1633,8 @@ msgid "Terms of Use"
 msgstr "Podmínky používání"
 
 #: www/views/includes/terms.html
-msgid "The authors of the software, employees and affiliates of Bitpay, copyright holders, and BitPay, Inc. cannot retrieve your private keys or passwords if you lose or forget them and cannot guarantee transaction confirmation as they do not have control over the Bitcoin network."
-msgstr "Autoři tohoto software, zaměstnanci a ostatní z Bitpay, vlastníci ochranných známek, BitPay, Inc, nemůže obnovit vaše soukromé klíče nebo hesla, pokud dojde ke ztrátě a negarantuje potvrzení transakcí, protože nedrží kontrolu nad Bitcoin sítí."
+msgid "The authors of the software, employees and affiliates of Bitpay, copyright holders, and BitPay, Inc. cannot retrieve your private keys or passwords if you lose or forget them and cannot guarantee transaction confirmation as they do not have control over the Decred network."
+msgstr "Autoři tohoto software, zaměstnanci a ostatní z Bitpay, vlastníci ochranných známek, BitPay, Inc, nemůže obnovit vaše soukromé klíče nebo hesla, pokud dojde ke ztrátě a negarantuje potvrzení transakcí, protože nedrží kontrolu nad Decred sítí."
 
 #: www/views/import.html
 msgid "The derivation path"
@@ -1666,8 +1666,8 @@ msgid "The request could not be understood by the server"
 msgstr "Požadavek nebyl serverem pochopen"
 
 #: www/views/includes/terms.html
-msgid "The software does not constitute an account where BitPay or other third parties serve as financial intermediaries or custodians of your bitcoin."
-msgstr "Tento software nepředstavuje účet kde BitPay nebo jiné třetí strany slouží jako finanční zprostředkovatelé nebo správci vašeho bitcoin."
+msgid "The software does not constitute an account where BitPay or other third parties serve as financial intermediaries or custodians of your decred."
+msgstr "Tento software nepředstavuje účet kde BitPay nebo jiné třetí strany slouží jako finanční zprostředkovatelé nebo správci vašeho decred."
 
 #: www/views/includes/terms.html
 msgid "The software you are about to use functions as a free, open source, and multi-signature digital wallet."
