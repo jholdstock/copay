@@ -80,7 +80,7 @@ angular.module('copayApp.controllers').controller('createController',
 
       */
 
-      if (appConfigService.name == 'copay') {
+      if (appConfigService.name == 'copay' || appConfigService.name == 'decred') {
         if (n > 1 && isChromeApp) {
           seedOptions.push({
             id: 'ledger',
